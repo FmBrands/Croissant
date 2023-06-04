@@ -1,4 +1,13 @@
 body {
   background: lightgreen;
   text-align: center;
+  max-width: 80%;
+  margin: auto;
+}
+.row {
+  display: block;
+  margin: auto;
+}
+.mt-3 {
+  margin-left: -100px;
 }
